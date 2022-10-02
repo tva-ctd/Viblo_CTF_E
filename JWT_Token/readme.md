@@ -14,13 +14,13 @@ And also upload file...
 <img src = "https://user-images.githubusercontent.com/93431512/193450277-04df90a0-2892-4796-8519-bf050d271189.png" width="50%">
 </p>
 
-Go back to `/` there are some uploaded files which directories have form `website/uploads/<username>/<filename>`
+Go back to `/` there are some uploaded files that the directories of which have form `website/uploads/<username>/<filename>`
 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/93431512/193450313-52fc3f5b-ae2e-4e0d-8152-85de4d99a103.png" width="50%">
 </p>
 
-So.. maybe up shell and marked `hacked by tronghieu220403` but it didn't work 
+So.. maybe up shell and mark `hacked by tronghieu220403` but it does not work 
 
 Let's check `Proxy history` and see `getflag.js`
 
