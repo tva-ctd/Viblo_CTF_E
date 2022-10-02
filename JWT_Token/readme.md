@@ -1,6 +1,6 @@
 ## JWT Token
 
-Adrress: http://172.104.49.143:1574/
+Address: http://172.104.49.143:1574/
 
 Sign in with username `admin`
 
