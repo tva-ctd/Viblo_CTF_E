@@ -66,7 +66,7 @@ Decode this Token by using [JWT Tool](https://token.dev)
 <img src = "https://user-images.githubusercontent.com/93431512/193450654-e6e9ca57-a3fe-43f1-9dd9-101e5893d829.png" width="100%">
 </p>
 
-We hope to change value of `approve` to `True`, but it is simultaneously verified with RS256 
+We hope to change value of `approve` to `True`, but simultaneously it must be verified with RS256 
 
 **Exploit:** We can tamper the Public key by changing `iss` value
 
